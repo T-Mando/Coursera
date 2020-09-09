@@ -1,0 +1,21 @@
+#nav-list{
+    text-align: center;
+    background-color: cornsilk;
+    
+}
+#nav-list a:hover{
+    background-color: cyan;
+}
+
+#main{
+
+    height: 1000px;
+    background-color: lightgray;
+
+}
+
+p{
+    
+    padding: 10px;
+
+}
